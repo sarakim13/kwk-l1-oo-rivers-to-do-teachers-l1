@@ -8,6 +8,7 @@ class River
     self.name = name
     self.length = nil
     self.countries = nil
+    self.discharge = nil
   end
   
   def flood
